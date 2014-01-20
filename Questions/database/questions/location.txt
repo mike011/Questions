@@ -1,0 +1,213 @@
+1	Programming	Best Practice	Code Craft	Chapter 7 - The Programemr's Toolbox	What is a software tool?	112 to 113
+3	Programming	Best Practice	Code Craft	Chapter 6 - To Err is Human	From Whence It Came	91
+4	Programming	Best Practice	Code Craft	Chapter 5 - A Passing Comment	Keep It Useful	77 to 78
+5	Programming	Best Practice	Code Craft	Chapter 4 - The Write Stuff	Introduction	58
+6	Programming	Best Practice	Code Craft	Chapter 4 - The Write Stuff	Introduction	58
+7	Programming	Best Practice	Code Craft	Chapter 3 - What's in a name?	Name Games	42 to 43
+8	Programming	Best Practice	Code Craft	Chapter 2 - The Best Laid Plans	What's the big deal?	24 to 25
+9	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	What is Defensive Programming?	6 and 7
+10	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Technique for Defensive Programming	8 to 11
+11	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Technique for Defensive Programming	11 to 14
+12	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Technique for Defensive Programming	14 to 16
+13	Programming	Best Practice	Code Craft	Chapter 8 - Testing Times	Testing Isn't Hard	135 to 136
+14	Programming	Best Practice	Code Craft	Chapter 8 - Testing Times	Testing isn't Hard ...	137 to 138
+15	Programming	Top Coder	SRM 300	Div 1	Easy	
+16	Programming	Gaming	Game Programming Gems	Chapter 2 - Mathematics	2.0 Predictable Rnadom Numbers	133
+17	Programming	Gaming	Game Programming Gems	Chapter 1 - Programming Techniques	1.0 The Magtic of Data-Driven Design	3
+18	Programming	Gaming	Game Programming Gems	Chapter 1 - Programming Techniques	1.0 The Magtic of Data-Driven Design	3
+20	Programming	Perforce	Practical Perforce	Chpater 2 - Working with Files	Listing workspaces	24
+21	Programming	Perforce	Practical Perforce	Chpater 2 - Working with Files	Setting the current workspace	25
+22	Programming	Perforce	Practical Perforce	Chpater 2 - Working with Files	Synchronizing the entire workspace	26
+23	Programming	Perforce	Practical Perforce	Chpater 2 - Working with Files	Listing files in your workspace	28
+24	Programming	Perforce	Practical Perforce	Chpater 2 - Working with Files	Detecting missing workspace files	28
+25	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Asume the Worst	5
+26	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Trust No One	
+27	Programming	Best Practice	Code Craft	Chapter 1 - On the Defensive	Trust No One	
+28	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+29	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+30	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+31	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+32	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+33	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+34	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+35	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+36	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+37	Health	Stretching	Stretch to Win	Ten Principles for Stretching Success		1
+38	Health	Running	Complete Book of Running	Chapter 1 - The first of Many Miles		20
+39	Health	Running	Complete Book of Running	Chapter 1 - The first of Many Miles		20
+40	Health	Running	Complete Book of Running	Chapter 1 - The first of Many Miles		20
+41	Health	Running	Complete Book of Running	Chapter 1 - The first of Many Miles		20
+42	Programming	Gaming	Game Programming Gems	Chapter 2 - Mathematics	2.2 Integrating the Equations of Rigid Body Motion	150
+43	Programming	Gaming	Game Programming Gems	Chapter 2 - Mathematics	2.2 Integrating the Equations of Rigid Body Motion	150
+44	Programming	Gaming	Game Programming Gems	Chapter 2 - Mathematics	2.2 Integrating the Equations of Rigid Body Motion	150
+45	Programming	TopCoder	http://www.topcoder.com/tc?module=Static&d1=match_editorials&d2=srm344	http://en.wikipedia.org/wiki/Off-by-one_error		
+46	Athletics	Stretching	Stetch to Win	Chapter 2 - Anatomy of Athletic Flexibility	Structure of Fascia	17
+47	Athletics	Stretching	Stetch to Win	Chapter 2 - Anatomy of Athletic Flexibility	Structure of Fascia	17
+48	Athletics	Stretching	Stetch to Win	Chapter 2 - Anatomy of Athletic Flexibility	Structure of Fascia	17
+49	Athletics	Stretching	Stetch to Win	Chapter 2 - Anatomy of Athletic Flexibility	Structure of Fascia	17
+50	Athletics	Stretching	Stetch to Win	Chapter 2 - Anatomy of Athletic Flexibility	Structure of Fascia	17
+51	Athletics	Running	Complete Book of Running	Chapter 8 - Tomorrow's Beverages Today	Better than plain water	61
+52	Athletics	Running	Complete Book of Running	Chapter 5 - Fueling up for a peak performance		41
+53	Athletics	Running	Complete Book of Running	Chapter 5 - Fueling up for a peak performance	Race Day	44
+54	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	People	
+55	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	People	
+56	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	People	
+57	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	People	
+58	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	Tools and Techniques	
+59	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	Tools and Techniques	
+60	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 1 - About Management	Tools and Techniques	
+62	Programming	Best Practices	Facts adn Fallacies of Software Engineering	Chapter 1 - About Management		
+63	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+64	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+65	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+66	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+67	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+68	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management		
+69	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse	
+70	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse	
+71	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse	
+72	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse - Fact 18	
+73	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse	
+74	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Reuse	
+75	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Complexity - Fact 21	
+76	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 1 - About Management	Complexity - Fact 22	
+77	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Requirements	
+78	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Requirements	
+79	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Requirements	
+80	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design	
+81	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design	
+82	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design - Fact 28	
+83	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design - Fact 28	
+84	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design - Fact 28	
+85	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Design - Fact 29	
+86	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Error - Removal	
+87	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Testing	
+88	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Testing	
+89	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Testing	
+90	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Testing	
+91	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Testing	
+92	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Review and Inspection - Fact 37	
+93	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Review and Inspection	
+94	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Review and Inspection - Fact 39	
+95	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Review and Inspection	
+96	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 41	
+97	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 41	
+98	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 42	
+99	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 42	
+100	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 42	
+101	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About the Life Cycle	Maintenance - Fact 42	
+102	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 2 - About Quality	Quality	
+103	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Quality	
+104	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Reliability	
+105	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Reliability	
+106	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Reliability	
+107	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Reliability - Fact 51	
+108	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Efficiency	
+109	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Efficiency	
+110	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	Efficiency	
+111	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 3 - About Quality	About Research	
+112	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management		
+113	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management		
+114	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management	People	
+115	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management	Tools and Techniques	
+116	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management	Tools and Techniques	
+117	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 5 - About Management	Estimation	
+118	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 6 - About the Life Cycle	Testing	
+119	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 6 - About the Life Cycle	Reviews	
+120	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 6 - About the Life Cycle	Maintenance - Fallacy 9	
+121	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chpater 6 - About the Life Cycle	Maintenance - Fallacy 9	
+122	Programming	Best Practices	Facts and Fallacies of Software Engineering	Chapter 7 - About Education		
+123	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+124	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Key.			
+125	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	What is Good Presentation?	26
+126	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	Brace Yourself	26
+127	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	One Style to Rule Them All	
+128	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	House Styles(and Where to Stick Them	31
+129	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	Setting the Standard	33
+130	programming	best practice	Code Craft	Chapter 2: The Best Laid Plans	Righteous Wars?	35
+131	programming	best practice	The Pragmatic Programmer	Preface	What Makes a Pragmatic Programmer	xix
+132	programming	best practice	The Pragmatic Programmer	Preface	What Makes a Pragmatic Programmer	xix
+133	programming	best practice	The Pragmatic Programmer	Chapte 1 - A Pragmatic Programmer	The Cate My Sourc Code	3
+134	programming	best practice	The Pragmatic Programmer	Chapte 1 - A Pragmatic Programmer	Software Entropy	4
+135	programming	best practice	The Pragmatic Programmer	Chapte 1 - A Pragmatic Programmer	Stone Soup and Boiled Frogs	6
+136	programming	best practice	The Pragmatic Programmer	Chapte 1 - A Pragmatic Programmer	The Villiagers' Side	6
+137	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+138	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+139	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+140	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+141	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+142	Programming	Eclipse	Eclipse -> Window -> Preferences -> General -> Keys			
+143	Eclipse	Programming	Eclipse -> Window -> Preferences -> General -> Keys			
+144	Eclipse	Programming	Eclipse -> Window -> Preferences -> General -> Keys			
+145	Eclipse	Programming	Eclipse -> Window -> Preferences -> General -> Keys			
+146	Eclipse	Programming	Eclipse -> Window -> Preferences -> General -> Keys			
+147	Eclipse	Programming	Eclipse -> Window -> Preferences -> General -> Keys			
+148	Programming	Best Practice	The Pragmattic Programmer	Chapter 1 - A Pragmatic Philosophy	Involve Your Users in the Trade-Off	
+149	Programming	Best Practices	The Pragmattic Programmer	Chapter 1 - A Pragmatic Philosophy	Building Your Portfolio	14
+150	Programming	Best Practices	The Pragmattic Programmer	Chapter 1 - A Pragmatic Philosophy	Critical Thinking	16
+151	Programming	Best Practices	The Pragmattic Programmer	Chapter 2 - A Pragmatic Approach	Th Evils of Duplication	27
+152	Programming	Best Practices	The Pragmattic Programmer	Chapter 1 - A Pragmatic Philosophy	Get Back to People	21
+153	Programming	Best Practices	The Pragmattic Programmer	Chapter 2 - A Pragmatic Approach	Interdeveloper Duplication	33
+154	Programming	Best Practices	The Pragmattic Programmer	Chapter 2 - A Pragmatic Approach	Benefits of Orthogonality	
+155	Programming	Best Practices	The Pragmattic Programmer	Chapter 2 - A Pragmatic Approach	Reversibility	46
+156	Programming	Best Practices	The Pragmatic Programmer	Chapter 2 - A Pragmatic Approach	Code That Glows in the Dark	49
+157	Programming	Best Practices	The Pragmatic Programmer	Chapter 2 - A Pragmatic Approach	Things to Prototype	54
+158	Programming	Best Practices	The Pragmatic Programmer	Chapter 2 - A Pragmatic Approach	Domain Languages	58
+159	Programming	Best Practices	The Pragmatic Programmer	Chapter 2 - A Pragmatic Approach	Estimating	64
+160	Programming	Best Practices	The Pragmatic Programmer	Chapter 2 - A Pragmatic Approach	Estimating Project Schedules	69
+161	Programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	What is Plain Text?	74
+162	Programming	Best Practice	Code Craft	Chapter 3 - What's in a Name?	Intro	40
+163	Programming	Best Practice	Code Craft	Chapter 3 - What's in a Name?	Teh Huts and Bolts	45
+164	Programming	Best Practice	Code Craft	Chapter 3 - What's in a Name?	General Dos and Dont's	52
+165	Programming	Best Practice	Code Craft	Chapter 3 - What's in a Name?		
+166	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	Shell Games	80
+167	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	One Editor	82
+168	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	Source Code Control	88
+169	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	Psychology of Debugging	91
+170	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	A Debugging Mindset	91
+171	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	Process of Elimination	96
+172	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	The Element of Surprise	97
+173	programming	Best Practices	The Pragmatic Programmer	Chapter 3 - The Basic Tools	Text Manipulation	100
+174	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	Code Generators	103
+175	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	Pragmatic Paranoia	107
+176	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	Design by Contract	111
+177	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	Dead Programs Tell No Lies	120
+178	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	Assertive Programming	122
+179	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	What is Exceptional?	127
+180	programming	Best Practices	The Pragmatic Programmer	Chapter 4 - Pragmatic Paranoia	How to Balance Resources	129
+181	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	The Law of Demeter for Functions	140
+182	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Dynamic Configuration	144
+183	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Metadata-Driven Applications	145
+184	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Workflow	151
+185	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Architecture	154
+186	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Cleaner Interfaces	156
+187	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Model-View-Controller	160
+188	programming	Best Practices	The Pragmatic Programmer	Chapter 5 - Bend, or Break	Application Example	169
+189	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Implicit Assumptions	175
+190	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Algorithm Speed in Practice	181
+191	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Algorithm Speed in Practice	182
+192	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Real-World Complications	186
+193	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Testing Against Contract	192
+194	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	A Culture of Testing	197
+195	programming	Best Practices	The Pragmatic Programmer	Chapter 6 - While You Are Coding	Evil Wizards	199
+196	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	The Requirements Pit	202
+197	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Digging for Requirements	204
+198	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Seeing Further	209
+199	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Maintain a Glossary	210
+200	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Degrees of Freedom	213
+201	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	No Until You're Ready	56
+202	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	The Specification Trap	218
+203	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Circles and Arrows	220
+204	programming	Best Practices	The Pragmatic Programmer	Chapter 7 - Before The Project	Should We use Formal Methods?	222
+205	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Orthonality	227
+206	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	All on Automatic	231
+207	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Ruthless Testing	237
+208	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Ruthless Testing	238
+209	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Testing the Tests	244
+210	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Testing Thoroughly	245
+211	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Tightening the Net	247
+212	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	It's All Writing	248
+213	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	It's All Writing	248
+214	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Great Expectations	255
+215	programming	Best Practices	The Pragmatic Programmer	Chapter 8 - Pragmatic Projects	Pride and Prejudice	70
+216	programming	Best Practices	The Pragmatic Programmer	Chapter 2 - The Pragmatic Approach	The Evils of Duplication	27

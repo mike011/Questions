@@ -1,0 +1,2 @@
+278	Remember that complexity is the number one enemy of maintainability. 	Remember;complexity;number;maintainability;
+279	Design for understandability and maintainability.	understandability;maintainability;Design;

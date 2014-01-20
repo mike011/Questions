@@ -1,0 +1,4 @@
+20	What is the p4 command to list workspaces?	p4 clients
+22	How would you copy and update all the depot files in your workspace?	p4 sync
+24	What p4 command would you type to get the list of files that are missing from your workspace?	p4 diff -sd
+151	Tip 11 - What does DRY stand for?	Don't Repeat Yourself

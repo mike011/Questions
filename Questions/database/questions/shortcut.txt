@@ -1,0 +1,13 @@
+123	What is the shortcut to rename?	ALT + SHIFT + R
+124	What is the shortcut to goto a line?	CTRL + l
+137	What is the short cut key when you want move text lines down?	ALT + DOWN
+138	What is the short cut key when you want move text lines up?	ALT + UP
+139	What is the short cut key to delete to the end of the line?	CTRL + SHIFT + DELETE
+140	What is the short cut key to add a javadoc comment?	ALT + SHIFT + j
+141	What is the short cut key to debug?	ALT + SHIFT + d
+142	What is the short cut to run?	ALT + SHIFT + x
+143	What is the short cut key for content assist?	CTRL + SPACE
+144	While debugging what is the short cut key to step into?	F5
+145	While debugging what is the short cut key to step into selection?	CTRL + F5
+146	While debugging what is the short cut key to step over?	F6
+147	While debugging what is the short cut key to step return?	F7

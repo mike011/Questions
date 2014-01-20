@@ -1,0 +1,8 @@
+126	What is considered the best brace positiong style?	K&R Brace Style	Extended Brace Style;Indented Brace Style;GNU Style;
+15	Is it easier to imagine a circle as a queue?	yes	no;
+21	On windows how would you set the current workspace?	p4 set P4CLIENT=mc	export P4CLIENT=mc;p4 export P4CLIENT=mc;set P4CLIENT=mc;p4 CLIENT=mc;p4 set CLIENT=mc;
+26	Who to trust?	no one	genuine users;malicious users;client code;operating environment;external libraries;your own code;
+43	What is an orthagonal basis?	A mutually orthogonal unit vectors as the basis.	A non mutually orthogonal unit vectors as the basis.;Oorthogonal unit vectors as the basis.;A mutually orthogonal unit vectors not as the basis.;
+46	What is the myofascia?	Fascia that specifically affect and influences muscles.	The connective tissue that can be influenced by stetching.;
+5	Is it important to write understandable code that can stand on it's own?	yes	no;
+6	Is it good practice to write code that needs external documentation to understand it?	no	yes;
