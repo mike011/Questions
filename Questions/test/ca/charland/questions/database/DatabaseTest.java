@@ -25,7 +25,7 @@ public final class DatabaseTest {
 	 * Test connecting to the database.
 	 */
 	@Test
-	public void testConnect() {
+	public void testConnect() throws Exception{
 
 		final Database connect = new Database("questions_test");
 		final Connection connection = (Connection) Reflection.getObject(connect, "_connection");
@@ -47,7 +47,7 @@ public final class DatabaseTest {
 	 * Test disconnectng from the database.
 	 */
 	@Test
-	public void testDisconnect() {
+	public void testDisconnect() throws Exception {
 		final Database connect = new Database("questions_test");
 		final Connection connectionBefore = (Connection) Reflection.getObject(connect, "_connection");
 
