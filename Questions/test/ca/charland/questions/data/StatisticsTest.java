@@ -129,6 +129,6 @@ public class StatisticsTest {
 
 		final int percent = statistics.getPercentCorrect();
 		final double expected = (double) correctlyAnswered / (double) totalTimesAnswered * 100d;
-		assertEquals(expected, percent);
+		assertEquals((int)expected, (int)percent);
 	}
 }
